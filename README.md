@@ -13,6 +13,7 @@ The grid contains obstacles, and some cells have weights, which increase the cos
 
 You can run it directly from the releases or from bin folder then debug then run pathfinding.exe.
 - Press 0 to reset the grid.
+- Press Right Mouse Button to reduce the weight.
 
 # Source Code:
 You will need to install the SDL2 library first and then install SDL_Image and SDL_ttf.
